@@ -1,2 +1,2 @@
 SELECT * FROM movies
-ORDER_BY movie_id;
+ORDER BY movie_id;
